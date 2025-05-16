@@ -1,1 +1,0 @@
-const availableImg = ["Beck2016Visual","crow_focal_2011","cubitt_gender_2022","cubitt_machine_2020","cunningham_forecasting_2024","gau_inquiry_2010","helsby_early_2018","hickman_police_2021","khorshidi_repurposing_2020","sarzaeim_systematic_2023","streeter_lethal_2019"];

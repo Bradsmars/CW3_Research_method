@@ -89,7 +89,7 @@
         "file": "PDF:C\\:\\\\Users\\\\Bradley\\\\Zotero\\\\storage\\\\J4FDPPUI\\\\Gau et al. - 2010 - An Inquiry Into the Impact of Suspect Race on Police Use of Tasers.pdf:application/pdf",
         "issn": "1098-6111, 1552-745X",
         "journal": "Police Quarterly",
-        "keywords": "Type:{Racial Disparities in Policing, Police Misconduct}",
+        "keywords": "Type:{Racial Disparities in Policing}",
         "language": "en",
         "month": "mar,",
         "number": "1",
